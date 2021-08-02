@@ -1,0 +1,6 @@
+{
+    "people":[
+        {"sno":1,"name":"John","city":"Chennai"},
+        {"sno":2,"name":"Manish","city":"Hyderabad"}
+    ]
+}
